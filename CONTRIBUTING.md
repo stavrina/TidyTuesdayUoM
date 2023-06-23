@@ -37,6 +37,10 @@ If you're more familiar with Git and GitHub via the GitHub UI you can stay up to
 
 ![Syncing your fork](images/sync_fork_web_ui.png)
 
+### Further reading
+
+You can find out more about syncing forks in the official GitHub documentation on syncing https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork
+
 ## Send us your code
 
 Alternatively, if you want to contribute your code but do not want to use GitHub please send it to us and we will add it to the repository.
