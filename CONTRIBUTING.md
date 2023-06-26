@@ -43,7 +43,7 @@ You can find out more about syncing forks in the official GitHub documentation o
 
 ## Send us your code
 
-Alternatively, if you want to contribute your code but do not want to use GitHub please send it to us and we will add it to the repository.
+Alternatively, if you want to contribute your code but do not want to use GitHub please send it to us and we will add it to the repository. You can send your code to stavrina[DOT]dimosthenous[AT]manchester[DOT]ac[DOT]uk.
 
 ## Naming convention
 
